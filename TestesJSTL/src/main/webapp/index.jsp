@@ -42,7 +42,7 @@
 	</c:when>
 	
 	<c:otherwise>
-	<c:when test="">
+	<c:when test="${salario }">
 	</c:when>
 	
 	
